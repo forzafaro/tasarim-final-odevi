@@ -1,0 +1,11 @@
+bu matlab guı ekranımızda baraj gövde sızma debisi ve temelde oluşan sızma debileri hesaplanacaktır
+q=k*I*A formülünden her bir değer yerine yazılarak
+toplam oluşan sızma debisi bulunur ve her toplam sızma debisi için yeni bir excel oluşturulur
+toplam sızma debisinin sağ tarafta sin(x)-toplam sızma grafiği oluşturulur
+bu projede bana destek olan sn. Dr. Enes GÜL hocama çok teşekkür ederim.
+
+In this MATLAB GUI screen, the dam body infiltration rate and the resulting infiltration rates will be calculated.
+Substituting each value from the formula q=k*I*A
+The total infiltration rate is found and a new excel is created for each total infiltration rate.
+sin(x)-total leakage graph is created on the right side of the total leakage flow
+who supported me in this project. I would like to thank my teacher Dr. Enes GUL.
